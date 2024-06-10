@@ -1,0 +1,4 @@
+﻿  main.cpp
+C:\Users\Nikolay\source\repos\3.8.1 simple exception\3.8.1 simple exception\main.cpp(10,19): warning C4267: return: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\Nikolay\source\repos\3.8.1 simple exception\3.8.1 simple exception\main.cpp(32,22): warning C4101: except: неиспользованная локальная переменная
+  3.8.1 simple exception.vcxproj -> C:\Users\Nikolay\source\repos\3.8.1 simple exception\x64\Debug\3.8.1 simple exception.exe
